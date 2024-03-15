@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 -JAVASCRIPT
+ *ES
+ *Framework JS
 -PHP
 -Laravel
 -ReactJS
