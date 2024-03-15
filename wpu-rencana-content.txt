@@ -3,7 +3,11 @@ RENCANA KONTEN WPU
 -JAVASCRIPT
  *ES
  *Framework JS
+ *Vue
+ *react
 -Struktur data dasar
 -PHP
+ *laravel
 -Laravel
 -ReactJS
+-Python
